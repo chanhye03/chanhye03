@@ -1,86 +1,86 @@
-<!-- 헤더 타이핑 SVG 애니메이션 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=180&section=header&text=Chan-hye%20Lee&fontSize=42&fontAlignY=38&desc=Data%20%26%20Cloud%20Engineer&descAlignY=62&descAlign=50" width="100%"/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86DE&center=true&vCenter=true&width=500&lines=Data+Pipeline+%26+ETL+Engineering;Cloud+Infra+%26+Database+Optimization;Resilient+%26+Scalable+System+Architecture" alt="Typing SVG" />
-  </a>
+
+# 안녕하세요, 이찬혜입니다 👋
+
+**아이디어를 화면으로, 화면을 실제 동작하는 서비스로 연결하는 개발자입니다.**
+
+프론트엔드를 중심으로 백엔드와 AI 기능까지 경험하며  
+사용자가 서비스를 이용하는 전체 흐름을 고민합니다.
+
+[GitHub](https://github.com/yourkik) · [Email](mailto:chanhye0619@gmail.com)
+
 </div>
 
-<br/>
+---
 
 ## 🧭 About Me
-- 🔭 **Data Pipeline:** 5억 건 대규모 소비 데이터 및 실시간 공공 API 수집·정제 파이프라인(ETL) 구축
-- 🗄️ **Databases:** PostgreSQL, PostGIS(공간 인덱싱), pgvector(벡터 검색) 스키마 설계 및 Materialized View 극한 쿼리 최적화
-- ☁️ **Cloud & Infra:** Azure 생태계 기반 컨테이너(Docker) CI/CD 배포 자동화 및 클라우드 리소스 비용 최적화
-- 🎯 **Reliability:** Outbox Pattern 기반 비동기 이벤트 무결성 보장, IQR 이상치 필터링을 통한 데이터 품질 관리
 
-<br/>
+- 웹·모바일 화면을 만들고 서비스 기능과 연결하는 일을 좋아합니다.
+- 프론트엔드뿐 아니라 백엔드 기능을 개발하며 서비스 구조에 대한 이해를 넓혀 왔습니다.
+- AI 도슨트와 캐릭터 생성처럼 AI를 사용자가 활용할 수 있는 기능으로 구현해 왔습니다.
+- 팀원으로서 맡은 기능을 개발하고, 팀장으로서 프로젝트를 진행한 경험이 있습니다.
 
-## 🛠 Tech Stacks
+## 🚀 Projects
 
-### 📊 Data Engineering & Processing
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Stream%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
+### 🐾 함께찾개
+강아지의 성장 후 예상 이미지를 생성하고 유사한 유기견을 검색하는 AI 서비스
 
-### 🗄️ Databases & Storage
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostGIS-006400?style=for-the-badge&logo=postgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Blob%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
+- **담당:** 프론트엔드 개발
+- 이미지 업로드부터 생성 결과와 유사견 검색 결과 확인까지 이어지는 사용자 화면 구현
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes%20(AKS)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+### 🦮 바른견로
+견종 특성과 도시 환경을 반영하는 반려견 맞춤형 산책 경로 추천 서비스
 
-### ⚙️ Backend & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
+- **담당:** 팀장 · 백엔드 기능 개발
+- FastAPI·PostGIS 기반 산책 경로 탐색 및 추천 기능 구현
 
-<br/>
+### 🌏 LALA
+외국인 관광객을 위한 로컬 관광 추천 및 AI 도슨트 서비스
 
-## 🚀 Featured Projects
+- **담당:** 프론트엔드 · AI 도슨트 기능 개발
+- 관광지 탐색·추천 화면과 다국어 관광 해설·음성 안내 기능 구현
 
-| 프로젝트명 | 핵심 도메인 & 기술 | 주요 역할 및 트러블슈팅 | Repository |
-| :--- | :--- | :--- | :---: |
-| **LALA** | • 5억 건 카드 데이터 ETL<br>• PostGIS & pgvector<br>• Azure OpenAI/TTS | • **IQR 보정 & Min-Max 정규화**로 상권 데이터 편향 해결<br>• **Materialized View** 튜닝으로 복합 검색 지연 단축<br>• 기상청 실시간 스트리밍 연동 및 시뮬레이션 검증 | [🔗 Link](https://github.com/yourkik/LALA) |
-| **바른견로 (Pet-Walk)** | • GIS 공간 데이터 ETL<br>• FastAPI & PostGIS<br>• Docker & Azure CI/CD | • `pyproj` 기반 **GRS80 ➡️ WGS84 좌표계 정합성 표준화**<br>• 도로망 노드 **사전 캐시 레이어 설계**로 메모리 OOM 해결<br>• Azure Scale-up/down 스케줄링으로 클라우드 비용 절감 | [🔗 Link](https://github.com/yourkik/SecondProjectTeam3) |
-| **ONMU** | • Event-driven Architecture<br>• Outbox Pattern<br>• AKS & Azure Blob | • `outbox_events` 기반 **비동기 이벤트 유실 방지** 설계<br>• CQRS 기반 Read/Write 모델 분리로 조회 성능 확보<br>• Flutter 모바일 클라이언트 캐릭터/기록 도메인 개발 | [🔗 Link](https://github.com/yourkik/ONMU) |
+### 📅 ONMU
+약속을 계획하고 함께한 순간을 기록하는 모바일 서비스
 
-<br/>
+- **담당:** 프론트엔드 · 캐릭터 생성 · 캘린더 및 기록 기능 개발
+- Flutter 기반 사용자 화면과 약속·추억을 날짜별로 확인하는 기능 구현
+- 캐릭터 생성과 기록 기능을 연결하는 사용자 경험 개발
 
-## 📈 GitHub Stats
+## 🛠 Experience & Learning
+
+| 분야 | 경험 |
+| :--- | :--- |
+| **Frontend** | 웹·모바일 UI, 사용자 흐름 구성, API 연동 |
+| **Backend** | FastAPI 기반 API 및 추천 기능 개발 |
+| **AI Integration** | Azure OpenAI·Speech 기반 도슨트, 캐릭터 생성 기능 |
+| **Data & Cloud** | SQL·Python 데이터 분석, Azure 데이터 파이프라인 및 클라우드 서비스 학습 |
+
+## 🌱 Interests
+
+- 사용자가 다음 행동을 쉽게 이해할 수 있는 인터페이스
+- 프론트엔드와 백엔드가 자연스럽게 연결되는 서비스
+- AI를 일상에서 활용할 수 있도록 만드는 기능
+- 함께 개발하고 개선하기 쉬운 코드와 협업 방식
+
+## 🎓 Education
+
+**Microsoft Data School 3기 · 대한상공회의소**  
+2025.12 – 2026.06 · 956시간
+
+- Azure 기반 데이터 파이프라인 및 클라우드 서비스 학습
+- SQL·Python을 활용한 데이터 분석과 시각화
+- AI 연계 서비스 팀 프로젝트 수행
+
+## 🏆 Awards
+
+**Microsoft Data School 3기 Final DATA Project 최우수상**
+- ONieum 팀 · ONMU 프로젝트
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourkik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourkik&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
 
-<br/>
+직접 만들고, 연결하고, 개선하며 개발의 범위를 넓혀가고 있습니다.
 
-## 📬 Contact
-<div align="center">
-  <a href="mailto:chanhye0619@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/yourkik">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://your-notion-portfolio-link">
-    <img src="https://img.shields.io/badge/Notion%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
 </div>
