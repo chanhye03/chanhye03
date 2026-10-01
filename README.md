@@ -7,7 +7,7 @@
 프론트엔드를 중심으로 백엔드와 AI 기능까지 경험하며  
 사용자가 서비스를 이용하는 전체 흐름을 고민합니다.
 
-[GitHub](https://github.com/yourkik) · [Email](mailto:chanhye0619@gmail.com)
+[Email](mailto:chanhye0619@gmail.com)
 
 </div>
 
